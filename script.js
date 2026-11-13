@@ -17,4 +17,7 @@ function addTask() {
 
     document.getElementById("taskList").appendChild(li);
     input.value = "";
+
+    // Temporary debugging code
+    console.log("Debug mode enabled");
 }
