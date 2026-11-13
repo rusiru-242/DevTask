@@ -22,7 +22,7 @@ HTML, CSS, and JavaScript.
 
 1. Clone the repository:
 
-   git clone https://github.com/USERNAME/DevTask.git
+   git clone https://github.com/rusiru-242/DevTask.git
 
 2. Open the DevTask folder.
 
