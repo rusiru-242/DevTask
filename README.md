@@ -48,7 +48,7 @@ DevTask/
 
 ## Author
 
-Your Name
+Rusiru Karunarathna
 
 ## Project Status
 
